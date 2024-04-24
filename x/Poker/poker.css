@@ -1,0 +1,51 @@
+.cut{
+    display: flex;
+    width: 85%;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header {
+    background-color: black;
+}
+header img{
+    width: 100px;
+    height: 100px;
+}
+header i{
+    color: white;
+    font-size: 2rem;
+}
+header i:hover{
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
